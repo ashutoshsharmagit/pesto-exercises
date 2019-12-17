@@ -1,0 +1,27 @@
+{
+  "name": "expressing-programs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshsharmagit/expressing-programs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshsharmagit/expressing-programs/issues"
+  },
+    "scripts": {
+      "test": "jest"
+    },
+  
+  "homepage": "https://github.com/ashutoshsharmagit/expressing-programs#readme"
+}
